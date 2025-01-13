@@ -1,2 +1,1 @@
-go run main.go
-https://yandex.ru/tune/
+https://contest.yandex.ru/contest/69968/problems/
