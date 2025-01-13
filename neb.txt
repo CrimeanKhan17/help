@@ -1,2 +1,2 @@
 go run main.go
-git push -u origin main
+https://yandex.ru/tune/
